@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/WebSockets-based-calculation-broadcast/static/js/main.e8265ce9.chunk.js",
+    "main.js.map": "/WebSockets-based-calculation-broadcast/static/js/main.e8265ce9.chunk.js.map",
+    "runtime-main.js": "/WebSockets-based-calculation-broadcast/static/js/runtime-main.6fce01a0.js",
+    "runtime-main.js.map": "/WebSockets-based-calculation-broadcast/static/js/runtime-main.6fce01a0.js.map",
+    "static/js/2.cb4076a3.chunk.js": "/WebSockets-based-calculation-broadcast/static/js/2.cb4076a3.chunk.js",
+    "static/js/2.cb4076a3.chunk.js.map": "/WebSockets-based-calculation-broadcast/static/js/2.cb4076a3.chunk.js.map",
+    "index.html": "/WebSockets-based-calculation-broadcast/index.html",
+    "precache-manifest.b5a2ce94c384c0225b62bc8e43a20570.js": "/WebSockets-based-calculation-broadcast/precache-manifest.b5a2ce94c384c0225b62bc8e43a20570.js",
+    "service-worker.js": "/WebSockets-based-calculation-broadcast/service-worker.js",
+    "static/js/2.cb4076a3.chunk.js.LICENSE.txt": "/WebSockets-based-calculation-broadcast/static/js/2.cb4076a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fce01a0.js",
+    "static/js/2.cb4076a3.chunk.js",
+    "static/js/main.e8265ce9.chunk.js"
+  ]
+}
