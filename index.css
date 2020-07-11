@@ -1,0 +1,35 @@
+.container{
+  margin-top: 100px;
+}
+
+.outerCard{
+  width: 28rem;
+}
+
+.broadcastCard{
+  width: 28rem;
+  height: 370px;
+}
+
+.broadcastText{
+
+}
+
+.innerCard{
+  width:410px;
+}
+
+.btn{
+  margin: 6px;
+}
+
+.btnOps{
+  width:42px;;
+}
+
+.txtArea{
+  width:100%;
+  height: 40px;
+  font-size: 22px;
+  text-align: right;
+}
